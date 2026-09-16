@@ -1,0 +1,16 @@
+{
+  "name": "DarkNight Hub",
+  "terminals": [
+    {
+      "name": "static-server",
+      "command": "python3 -m http.server 8000",
+      "description": "Serves the DarkNight Hub static site (index.html) at http://localhost:8000."
+    }
+  ],
+  "ports": [
+    {
+      "name": "static site",
+      "port": 8000
+    }
+  ]
+}
