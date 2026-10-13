@@ -51,7 +51,10 @@ Companion poster matching the existing **GRK Farewell** collage (Protiviti navy/
 
 When `design_id` is available: `start-editing-transaction` → `find_and_replace_text` / `replace_text` on sticky notes and headers → preview → user approval → `commit-editing-transaction`.
 
-## Status
+## Status (2026-10-13 update)
 
-- Canva `create-design`: **failed** (`quota_exceeded`).
-- User to provide original Canva link for `copy-design` + text edits, or retry generation after quota reset.
+- Full collage + team row generated (`grk-farewell-team-news-poster.jpg`).
+- Uploaded to Canva design **`DAHX3lOimow`** (draft transaction open — **not committed** until user approves).
+- Edit (draft): https://www.canva.com/d/fUhD2RVEJZgIXTx
+- Source proposal: `DAHTqNyqybE` (Saudi Energy & Utilities Page) — cover page copied; **named team roster not in extractable text**; team row uses proposal-style portraits + **Ankit Anand** label from repo owner.
+- Replace circles with real proposal headshots manually in Canva if a credentials slide exists on Drive/PPTX.
