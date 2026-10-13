@@ -51,10 +51,22 @@ Companion poster matching the existing **GRK Farewell** collage (Protiviti navy/
 
 When `design_id` is available: `start-editing-transaction` → `find_and_replace_text` / `replace_text` on sticky notes and headers → preview → user approval → `commit-editing-transaction`.
 
+## Scene layout (approved narrative — no extra stickies)
+
+Single-frame illustration:
+
+1. **Neeche:** dukhi team (tension).
+2. **Peeche:** Protiviti / Riyadh Tower.
+3. **Chhat:** Darshan + Adnan — topo ki salami.
+4. **Bayein:** Gaurav — tata bye, last day.
+5. **Copy (voice):** deadpan `AAJ KI TAAZA KHABAR`; WFH = thoda respite (script only, not poster clutter).
+
+Artifact: `grk-scene-deliverable.jpg` (repo path: export from `/opt/cursor/artifacts/` when building).
+
 ## Status (2026-10-13 update)
 
-- Full collage + team row generated (`grk-farewell-team-news-poster.jpg`).
-- Uploaded to Canva design **`DAHX3lOimow`** (draft transaction open — **not committed** until user approves).
-- Edit (draft): https://www.canva.com/d/fUhD2RVEJZgIXTx
+- Scene poster on Canva **`DAHX3lOimow`** page 1 (replaces sticky collage).
+- Draft edit: https://www.canva.com/d/g7fWrtVsajq9VnK
+- Hindi script: `grk-farewell-news-script-hindi.txt` (artifacts).
 - Source proposal: `DAHTqNyqybE` (Saudi Energy & Utilities Page) — cover page copied; **named team roster not in extractable text**; team row uses proposal-style portraits + **Ankit Anand** label from repo owner.
 - Replace circles with real proposal headshots manually in Canva if a credentials slide exists on Drive/PPTX.
