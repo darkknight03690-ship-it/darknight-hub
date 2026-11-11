@@ -1,0 +1,10 @@
+# Termux packages — minimal profile (one pkg per line)
+openssh
+git
+python
+nmap
+openssl-tool
+curl
+wget
+unzip
+tar
