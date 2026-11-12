@@ -1,5 +1,6 @@
 {
   "name": "DarkNight Hub",
+  "install": "test -f index.html\ntest -f README.md\ntest -f docs/project/PURPOSE.md",
   "terminals": [
     {
       "name": "static-server",
