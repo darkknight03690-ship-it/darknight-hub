@@ -1,0 +1,8 @@
+# Termux packages — app testing profile
+python-pip
+clang
+make
+binutils
+libandroid-spawn
+android-tools
+tsu

@@ -1,0 +1,7 @@
+# Termux packages — network profile (active scanning; monitor mode is hardware/root)
+nmap
+netcat-openbsd
+whois
+dnsutils
+proxychains-ng
+inetutils
